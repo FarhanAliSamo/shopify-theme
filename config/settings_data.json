@@ -146,8 +146,8 @@
           "heading": "That Our First Custom Component",
           "description": "that our custom dscription",
           "background_color": "#cac3c38b",
-          "button_text": "Click Me",
-          "button_link": "/",
+          "button_text": "Products",
+          "button_link": "shopify://collections/all",
           "show_button": true,
           "text_alignment": "center"
         }
